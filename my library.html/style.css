@@ -1,0 +1,476 @@
+.sidebar{
+    background-color: black;
+    width: 14vw;
+    height: 650px;
+    padding-top: 20px;
+    position: fixed;
+}
+.spotify-i
+{
+    font-size: 35px;
+   position: relative;
+   left: 15px;
+   margin-left: ;
+}
+.spotify-h
+{
+    color: white;
+    font-size: 25px;
+margin-left: 15px;
+}
+.home
+{
+ display: flex;
+}
+.home-img
+{
+margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+
+}
+.home-h
+{
+   margin-top: 25px;
+   font-size: 15px;
+   color: #b3b3b3;
+   margin-left: 20px;
+}
+.search{
+    display: flex;
+}
+.search-img
+{
+   margin-left: 20px;
+   margin-top: 10px;
+}
+.search-h
+{
+    margin-top: 10px;
+    margin-left: 20px;
+   font-size: 15px;
+   color: #b3b3b3;
+}
+.library{
+    display: flex;
+}
+.library-img
+{
+margin-left: 20px;
+margin-top: 10px;
+}
+.library-h
+{
+    margin-top: 15px;
+    margin-left: 20px;
+   font-size: 15px;
+   color: #b3b3b3;
+}
+
+.playlist-h
+{ font-size: 15px;
+   color: #b3b3b3;
+   margin-top: 30px;
+   margin-left: 20px;
+}
+.create
+{
+    display: flex;
+    margin-top: 20px;
+}
+.playlist-h1
+{
+    color: #b3b3b3;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.plus
+{
+    margin-left: 20px;
+}
+.songs
+{
+    display: flex;
+}
+.songs-h
+{
+    color: #b3b3b3;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.songs-sym
+{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.img-girl
+{
+    width: 195px;
+    height: 180px;
+    margin-top: 60px;
+
+}
+.line
+{
+  background-color: #b3b3b3;
+  width: 180px;
+  margin-left: 15px;
+}
+
+
+.main-sec
+{  display: flex;
+     width: 100vw;
+    height: 300px;
+    background: linear-gradient(#8ba8a1, #394542)
+}
+
+.pop-photo
+{   height: 250px;
+    margin-left: 210px;
+    margin-top: 65px;
+}
+.content-main
+{
+    display: flex;
+    flex-direction: column;
+}
+.playlist-heading
+{
+    color: #ffffff;
+    font-size: 11px;
+    margin-left: 0px;
+    margin-top: 125px;
+
+}
+.main-sec h1 
+{
+    color: #ffffff;
+     font-size: 70px;
+     font-weight: bold;
+     margin-top: 0px;
+     margin-left: 0px;
+}
+.content-main p
+{
+  color: #babebe;  
+  font-size: 12px;
+}
+.content-main p b 
+{
+   color: #ffffff; 
+}
+.body
+{   
+    margin-left:215px;
+    width: 85.99vw;
+    background: linear-gradient(#28302f, #000000)
+    
+}
+.icons img
+{
+    margin-left: 20px;
+}
+.play-btn
+{
+    width: 35px;
+    margin-top: 8px;
+}
+.save-btn
+{
+  width: 20px;
+  margin-top: 7px;
+}
+.dot-btn
+{
+    width: 30px;
+}
+.title-h
+{
+    display: flex;
+}
+.title-h p
+{
+    margin-left: 15px;
+    color: #b8bab9;
+    margin-top: 15px;
+    font-size: 10px;
+
+}
+#title-head
+{
+    margin-right: 10px;
+}
+#album-h
+{
+    margin-left: 450px;
+}
+#date-h
+{
+    margin-left: 300px;
+}
+.item-1
+{
+    display: flex;
+}
+.text
+{
+    color: #f1f1f1;
+    margin-left: 10px;
+    font-size: 16px;
+
+}
+.text-album
+{
+    color: #f1f1f1;
+    margin-left: 200px;
+    font-size: 14px;
+    
+    
+}
+.dot-icon
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+#time
+{
+    color: #bdbdbd;
+    margin-left: 330px;
+    font-size: 15px;
+}
+.pause-btn
+{
+    margin-left: 30px;
+    width: 15px;
+    height: 15px;
+    margin-top: 8px;
+}
+.img
+{
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 50px;
+}
+.text-img
+{   
+    display: flex;
+    margin-left: 195px;
+    color: #bdbebd;
+}
+.jap-img
+{
+    width: 30px;
+    height: 15px;
+    margin-top: 5px;
+
+}
+.item-2
+{
+    display: flex;
+    margin-left: 30px;
+}
+.para2
+{
+    color:#b2b2b2;
+}
+.text2
+{
+    color: #f1f1f1;
+    margin-left: 10px;
+    font-size: 16px;
+
+}
+.text-album2
+{
+    color: #f1f1f1;
+    margin-left: 200px;
+    font-size: 14px;
+    
+    
+}
+.dot-icon2
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+#time2
+{
+    color: #bdbdbd;
+    margin-left: 330px;
+    font-size: 15px;
+}
+.img2
+{
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 60px;
+}
+.text-img2
+{   
+    display: flex;
+    margin-left: 200px;
+    color: #bdbebd;
+}
+.jap-img2
+{
+    width: 30px;
+    height: 15px;
+    margin-top: 5px;
+
+}
+.item-3
+{
+    display: flex;
+    margin-left: 30px;
+}
+.para3
+{
+    color:#b2b2b2;
+}
+.text3
+{
+    color: #f1f1f1;
+    margin-left: 10px;
+    font-size: 16px;
+
+}
+.text-album3
+{
+    color: #f1f1f1;
+    margin-left: 200px;
+    font-size: 14px;
+    
+    
+}
+.dot-icon3
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+#time3
+{
+    color: #bdbdbd;
+    margin-left: 330px;
+    font-size: 15px;
+}
+.img3
+{
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 60px;
+}
+.text-img3
+{   
+    display: flex;
+    margin-left: 200px;
+    color: #bdbebd;
+}
+.jap-img3
+{
+    width: 30px;
+    height: 15px;
+    margin-top: 5px;
+}
+.lower
+{
+    background-color: #181818;
+    width: 80vw;
+    height: 40px;
+    margin-right: 100px;
+
+    
+}
+.foot-1{
+    position: relative;
+    left: 0px;
+    right:0px;
+    background-color: #181818;
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    bottom: 0px;
+    border-top:1px solid #282828 ;
+    
+}
+.music-3{
+    font-size: 11px;
+    color: #9b9b9b;
+    position: relative;
+    bottom: 13px;  
+}
+.image-1{
+    width: 28% ;
+}
+.image-2{
+    width: 60px ;
+    height: 70px ;
+}
+.icons-1{
+    width: 17px;
+   height: 18px;
+   margin-top: 35px;
+}
+.music-1{
+    margin: 5px;
+    border-radius: 10px; 
+    width: 550px;
+   height: 3px;
+    background-image: url("./Rectangle\ 19\ \(1) copy.png");
+     
+}
+
+.player-1>img{
+   margin-top: 10px;
+   position: relative;
+   left: 210px;
+}
+.player-1-2{
+    width: 40px;
+}
+
+.player-2{
+    position: relative; 
+    bottom: 10px;
+}
+.player-2>h6{
+    font-size: 10px;
+    color: #c4c4c4;
+}
+.icons-4{
+    
+    padding: 25px;
+    margin-left: 230px;
+}
+.icons-5{
+    margin: 1px;
+    width: 25px;
+    padding: 4px;
+}
+.icon-1{
+    width: 23px;
+    height: 25px;
+    margin-top: 33px;
+    
+}
+
+
+
+
+
+    
+
+
+
+
+
+
